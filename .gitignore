@@ -1,0 +1,18 @@
+# Compiled binaries
+*.exe
+*.dll
+
+# Log files
+*.log
+
+# macOS files
+.DS_Store
+
+# Node.js
+node_modules/
+
+# Visual Studio Code
+.vscode/
+
+# Virtual environment
+venv/
